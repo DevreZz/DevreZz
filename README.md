@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @DevreZz
-- 👀 I’m interested in working as a programmer. learning, discovering...
-- 🌱 I’m currently learning SQL and Sistem's Analysis and development
-- 💞️ I’m looking to collaborate on anywhere
-- 📫 How to reach me instagram, facebook or discord (@mrezz)
+<p align="center">
+  <code>#SQL</code> &nbsp;
+  <code>#HTML/CSS</code> &nbsp;
+  <code>#JavaScript</code> &nbsp;
+  </p>
 
-<!---
-DevreZz/DevreZz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <div align="center">
+  <p>
+  Nowadays studying Sistem's Analysis and development
+    <strong> English Teacher | Software Engineer </strong>
+  </p>
+</div>
+
+<img
+  src="https://super.abril.com.br/wp-content/uploads/2016/10/super_imgde_onde_veio_a_expressao_bode_expiatorio.jpg?quality=90&strip=info&w=1280&h=720&crop=1"
+  min-width="400px"
+  width="450px"
+  height="360px"
+  align="right"
+  alt="MFDOOM image"
+/>
+
+<pre align="justify">
+  <strong>Ahoi. 👋🏽</strong>
+
+  A simple about me.
+</pre>
