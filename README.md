@@ -23,5 +23,5 @@
 <pre align="justify">
   <strong>Ahoi. 👋🏽</strong>
 
-  A simple about me.
+  Since I was a kid I've dreamed about working with technology. As an adult, I made my choices, first of all, I started by studying eletronics. Times going by, I had the chance to work as an English teacher, so I got this job to support my dream. After that, I got a graduation in Philosophy and there I learnt a lot about logics. Now, as a teacher I can affort my studies and become a software engineer of success.
 </pre>
