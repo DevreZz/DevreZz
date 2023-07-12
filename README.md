@@ -28,7 +28,8 @@
   first of all, I started by studying eletronics.
   Times going by, I had the chance to work as an English teacher,
   so I got this job to support my dream. After that,
-  I got a graduation in Philosophy and there I learnt a lot about logics.
+  I got a graduation in Philosophy and there
+  I learnt a lot about logics.
   Now, as a teacher I can affort 
   my studies and become a software engineer of success.
 </pre>
