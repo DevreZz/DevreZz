@@ -47,7 +47,7 @@
 
 <pre align="justify">
   <strong> more about me.</strong>
-A bass player and games lover, I like to spend my leisure time by doing this kind of things.
+  A bass player and games lover, I like to spend my leisure time by doing this kind of things.
   I also love animals, special my two dogs. Patient, curious and creative, my fuel is coffee and I enjoy Japanese food.
   I'm a people person who always tries to help everyone in need.
   On weekends, why not a road trip by motorcycle? =)
