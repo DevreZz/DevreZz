@@ -34,7 +34,7 @@
   as an English teacher,
 
   
-  so I got this job to support my dream.
+  so I got this job to support my dreamjob.
   
   After that,
   I got a graduation in Philosophy
@@ -43,4 +43,11 @@
   Now, as a teacher I can affort 
   my studies and become a software engineer
   of success.
+</pre>
+
+<pre align="center">
+  <strong> more about me.</strong>
+A bass player and games lover, I like to spend my leisure time by doing this kind of things. I also love animals, special my two dogs.
+  Patient, curious and creative, my fuel is coffee and I enjoy Japanese food. I'm a people person who always tries to help everyone in need.
+  On weekends, why not a road trip by motorcycle? =)
 </pre>
