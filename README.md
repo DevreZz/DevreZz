@@ -15,7 +15,7 @@
   src="https://super.abril.com.br/wp-content/uploads/2016/10/super_imgde_onde_veio_a_expressao_bode_expiatorio.jpg?quality=90&strip=info&w=1280&h=720&crop=1"
   min-width="400px"
   width="450px"
-  height="465px"
+  height="462px"
   align="right"
   alt="MFDOOM image"
 />
