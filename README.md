@@ -45,8 +45,10 @@
   of success.
 </pre>
 
-<pre align="justify">
+<pre align="center">
   <strong> more about me.</strong>
+</pre>
+<pre align='justify'>
   A bass player and games lover, I like to spend my leisure time by doing this kind of things.
   I also love animals, special my two dogs. Patient, curious and creative, my fuel is coffee and I enjoy Japanese food.
   I'm a people person who always tries to help everyone in need.
