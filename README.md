@@ -17,7 +17,7 @@
   src="https://super.abril.com.br/wp-content/uploads/2016/10/super_imgde_onde_veio_a_expressao_bode_expiatorio.jpg?quality=90&strip=info&w=1280&h=720&crop=1"
   min-width="400px"
   width="450px"
-  height="463px"
+  height="440px"
   align="right"
   alt="MFDOOM image"
 />
@@ -45,16 +45,14 @@
   Now, as a teacher I can affort 
   my studies and become a software engineer
   of success.
+  
 </pre>
 
 <pre align="justify">
   <strong> more about me.</strong>
-  A bass player and games lover,
-  I like to spend my leisure time by doing
-  this kind of things. I also love animals, specially
-  my two dogs. Patient, curious and creative,
-  my fuel is coffee and I enjoy Japanese food.
-  I'm a people person who always tries to help
-  everyone in need. On weekends,
-  why not a road trip by motorcycle? =)
+  A bass player and games lover, I like to spend my leisure time by doing
+  this kind of things. I also love animals, specially my two dogs. Patient, curious and creative,
+  my fuel is coffee and I enjoy Japanese food. I'm a people person who always tries to help
+  everyone in need. On weekends, why not a road trip by motorcycle? =)
+  
 </pre>
